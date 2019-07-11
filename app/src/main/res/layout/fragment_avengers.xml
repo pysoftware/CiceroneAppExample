@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context=".fragments.AvengersFragment"
+             android:padding="10dp">
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <TextView
+                android:textAlignment="center"
+                android:textSize="32sp"
+                android:text="@string/avengers"
+                android:layout_width="match_parent" android:layout_height="wrap_content"/>
+
+        <Button
+                android:text="@string/spider_man"
+                android:id="@+id/toSpiderManFilm"
+                android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <Button
+                android:text="@string/thor"
+                android:id="@+id/toThorFilm"
+                android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <Button
+                android:text="@string/legend"
+                android:id="@+id/toLegendFilm"
+                android:layout_width="match_parent" android:layout_height="wrap_content"/>
+
+        <Button
+                android:text="@string/main_menu"
+                android:id="@+id/toMainMenuu"
+                android:layout_width="match_parent" android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+
+</FrameLayout>

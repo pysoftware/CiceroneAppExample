@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SampleCicerone</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="avengers">Avengers</string>
+    <string name="spider_man">spider man</string>
+    <string name="thor">thor</string>
+    <string name="legend">legend</string>
+    <string name="films_list">Films list</string>
+    <string name="main_menu">main menu</string>
+</resources>
