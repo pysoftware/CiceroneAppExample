@@ -1,3 +1,3 @@
 # Understanding cicerone
-Screens - объявление экранов-фрагментов приложения \n
-App - инициализация cicerone
+# Screens - объявление экранов-фрагментов приложения
+# App - инициализация cicerone
